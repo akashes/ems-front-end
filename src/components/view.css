@@ -1,0 +1,18 @@
+
+.row{
+    transition: transform .3s ease-in-out;
+
+}
+
+.row:hover{
+    transform:scale(1.01)
+}
+
+.home-nav{
+    transition: all .2s ease-in-out;
+
+}
+
+.home-nav:hover{
+color: green;
+}

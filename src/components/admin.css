@@ -1,0 +1,18 @@
+.table-row:hover{
+transform: perspective(500px) scale(1.01);
+background-color: rgb(230, 227, 227);
+}
+.table-row{
+    transition: all .2s ease-in-out;
+}
+
+
+.desig{
+    transition: all .2sec ease-in-out;
+    cursor: pointer;
+}
+.desig:hover{
+    color:green;
+    background-color: white!important
+}
+
